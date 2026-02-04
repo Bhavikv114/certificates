@@ -11,7 +11,7 @@ This course helped me understand basic cyber security concepts.
 
 ## Proof of completion
 My TryHackMe public profile:
-https://tryhackme.com/room/careersincyber?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=66cc37769bf5e239016c1855
+https://tryhackme.com/p/Bhavikverma
 
 This link shows my completed learning and progress.
 
